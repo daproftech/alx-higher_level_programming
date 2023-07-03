@@ -1,4 +1,4 @@
-Latest comm0;276;0c#!/usr/bin/python3
+#!/usr/bin/python3
 """
 
 This module is composed by a class that defines a Rectangle
